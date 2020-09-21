@@ -1,0 +1,48 @@
+body{
+  background-image: url(https://files.slack.com/files-pri/T91QPE3BP-F01AVJ7SEKX/bg2_1920x1200.jpg);
+
+}
+
+.container{
+  width: 600px;
+  margin: auto;
+}
+.logo{
+  height: 100px;
+  vertical-align: middle;
+}
+
+.nome-logo{
+  font-size: 25px;
+  color: white;
+}
+
+#you-unread{
+  color: white;
+}
+
+#unread{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 3px;
+}
+
+#mail-list{
+  color: black;
+}
+
+.read-mail{
+  background-color: lightgrey;
+}
+
+.unread-mail{
+  background-color: white;
+}
+
+footer{
+  text-align: center;
+}
+
+#name-footer{
+  font-size: 20px;
+}
